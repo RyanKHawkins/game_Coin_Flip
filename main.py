@@ -1,6 +1,6 @@
 # Simple Betting game
 # Created by Ryan Hawkins
-# 2019-06-21
+# 2019-11-09
 
 import random
 import os
